@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Murraytest]]></title>
+        <description><![CDATA[Murraytest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 Nov 2015 21:25:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>“In spite of all the rhetoric, we will go
+deeper in debt, the Fed will print more money, and the value of the dollar will
+continue to plummet.” - Ron Paul</p>]]></description>
+            <link>undefined92ff4283-cf30-45cf-9769-bb084b78ba69/index.html</link>
+            <guid isPermaLink="false">92ff4283-cf30-45cf-9769-bb084b78ba69</guid>
+            <pubDate>Wed, 18 Nov 2015 21:25:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
